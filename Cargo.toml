@@ -1,6 +1,6 @@
 [package]
 name = "xpans_render"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "An interface for defining spatial audio rendering modes and implementing mode-agnostic renderers for the xpans Ecosystem"
 readme = "README.md"
