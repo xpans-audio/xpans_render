@@ -7,8 +7,8 @@ mode-agnostic renderers for the xpans Ecosystem
 
 ## Examples
 For examples on how to implement rendering modes, refer to
-[xpans Stereo](https://github.com/xpans-audio/xpans_stereo) and
-[xpans Headphones](https://github.com/xpans-audio/xpans_headphones).
+[xpans Stereo](https://github.com/xpans-audio/render-modes) and
+[xpans Headphones](https://github.com/xpans-audio/render-modes).
 
 For an example on how to implement a renderer, refer to
 [xpans Violet](https://github.com/xpans-audio/xpans_violet).
