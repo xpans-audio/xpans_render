@@ -5,6 +5,7 @@ edition = "2024"
 description = "An interface for defining spatial audio rendering modes and implementing mode-agnostic renderers for the xpans Ecosystem"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
+homepage = "https://xpans.audio"
 repository = "https://github.com/xpans-audio/xpans_render.git"
 authors = ["Ben Seigler"]
 
